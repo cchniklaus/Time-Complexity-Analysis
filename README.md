@@ -5,5 +5,6 @@ Description: design two different adaptive cluster algorithm and compare time co
 Algorithm: For any $x$ belonging to list A, if $|x-y| <= step$, then $y$ belongs to the same list A.
 
 results:
-<!-- modify figure size -->
-<img src="./Figure_1.png" alt="results for time consumption" width="400" height="200">
+<p align="center">
+  <img src="./Figure_1.png" alt="graphic abstract">
+</p>
